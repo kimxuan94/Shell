@@ -1,0 +1,15 @@
+echo -e "The Answer to the Great Question..."
+echo -e "Yes...!"
+echo -e "Of Life, the Universe and Everything"
+echo -e "Yes...!"
+echo -e "Is."
+echo -e "Yes...!"
+echo -e "Is."
+echo -e "Yes...!!!...?"
+echo -e "Forty-two\n"
+
+echo "commande qui permet d'afficher du texte
+c'est un équivalent à write en C
+elle peut prendre plusieurs options en paramètre
+Ici le -e (autorise l'échappement dans une string)
+Dernière ligne le "\n" permet un retour chariot."
