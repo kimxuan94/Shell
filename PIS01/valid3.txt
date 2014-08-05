@@ -1,0 +1,11 @@
+Voici les commandes pour réaliser le swap:
+
+mkdir dir1 (créer un répertoire dir1)
+
+cp -r dir (copier un répertoire en précisant avec l'option -r)
+
+cp -r dir1 
+
+mv dir1 dir2 (renommer le dossier en précisant le dossier qu'on veut renommer etle nouveau nom qu'on veut lui donner)
+
+mv dir2 dir1 (même manip)
