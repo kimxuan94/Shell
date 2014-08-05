@@ -1,4 +1,3 @@
-cd test1 (accèder au dossier test1)
-rm *~ (rm est une commande qui supprime)
-      (le * lui dit de tout sélectionner)
-      (le ~ symbolise les fichiers temporaires)
+pwd
+cd
+rm *~
