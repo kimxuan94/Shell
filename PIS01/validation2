@@ -1,0 +1,5 @@
+voici les commandes à utilise pour réaliser le clean:
+
+pwd (se situer dans l'arborescence du dossier)
+cd (se déplacer jusqu'au dossier)
+rm *~ (supprimer tous les fichiers temporaires)
