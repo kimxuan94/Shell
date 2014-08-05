@@ -1,0 +1,3 @@
+mkdir Ex_LS
+ ls-l
+ ln -s (pour creer un lien symbolique)
