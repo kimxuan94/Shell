@@ -1,0 +1,1 @@
+echo "pour n'afficher que les 25 dernières lignes il fallait utiliser la commande tail - n + nb caractères + chemin vers dossier ou fichier"
