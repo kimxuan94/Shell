@@ -1,0 +1,6 @@
+Commandes pour créer un fichier:
+
+touch thikim (touch permet de créer uniquement un fichier)
+
+ls -l thikim (permet d'afficher les informations de mon fichier) 
+
